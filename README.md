@@ -1,1 +1,2 @@
 # Portfolio-Visualization-and-Optimization-Using-Stock-Market-Data
+Model and the dataset curated to assist investment analysts, like you, in performing mean-variance optimization for constructing efficient portfolios. The dataset contains historical financial data for a selection of assets, enabling the calculation of risk and return characteristics necessary for portfolio optimization.The goal is to help you determine the most effective allocation of assets to achieve optimal risk-return trade-offs.
